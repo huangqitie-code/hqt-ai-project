@@ -1,2 +1,2 @@
-#hqt-ai-project
+# hqt-ai-project
 AI项目仓库
