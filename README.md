@@ -1,2 +1,2 @@
 # hqt-ai-project
-AI项目仓库
+AI项目仓库test
